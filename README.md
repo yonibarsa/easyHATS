@@ -23,7 +23,7 @@ Additional features:
 - Exosphere.
 - Custom hekate_ipl.ini (just changing some names, no big deal).
 
-# HOWTO
+# HOW-TO
 1. Turn off your console, extract the SD card and insert into your card reader.
 2. Grab and unzip the latest release.
 3. Copy all the contents from the "SWJRR Pack" folder into the root of your SD Card.
