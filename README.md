@@ -1,2 +1,2 @@
 # easyHATS
-HATS pack with minimal software - No more unnecessary homebrew
+## HATS pack with minimal software - No more unnecessary homebrew
